@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="fisei.login"
+            android:name="fisei.maksym.cannongame.Target$login"
             android:exported="false"
             android:label="@string/title_activity_login" />
         <activity
