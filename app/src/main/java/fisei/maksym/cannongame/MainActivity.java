@@ -1,9 +1,7 @@
 package fisei.maksym.cannongame;
-
-import android.support.v4.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.maksym.cannongame.R;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,3 +11,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
